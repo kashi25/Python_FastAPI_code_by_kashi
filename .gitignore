@@ -1,0 +1,38 @@
+# created by virtualenv automatically
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE specific files
+#.vscode/
+# .idea/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.db
+*.sqlite
+
+# Ignore user-specific configuration files
+*.config
+*.conf
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+
+# Ignore package management files
+# pip-lock.txt
+
